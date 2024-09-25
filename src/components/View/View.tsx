@@ -5,7 +5,6 @@ import { MovieCard } from "../MovieCard/MovieCard";
 import ErrorIcon from "@mui/icons-material/Error";
 
 export const View = ({ moviesData }: Types.ViewProps) => {
-  console.log(moviesData);
   return (
     <Container
       sx={{

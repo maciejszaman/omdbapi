@@ -23,7 +23,7 @@ export const MovieCard = ({ props }: Types.MovieCardProps) => {
   const fetchMovieDetails = async () => {
     setLoading(true);
     const response = await fetch(
-      `http://www.omdbapi.com/?i=${props.imdbID}&apikey=${process.env.REACT_APP_API_KEY}`
+      `https://www.omdbapi.com/?i=${props.imdbID}&apikey=${process.env.REACT_APP_API_KEY}`
     );
     const data = await response.json();
     setLoading(false);
