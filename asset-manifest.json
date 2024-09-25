@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/omdbapi.github.io/static/css/main.a262d11b.css",
-    "main.js": "/omdbapi.github.io/static/js/main.69c94f86.js",
+    "main.js": "/omdbapi.github.io/static/js/main.3cad7643.js",
     "static/js/453.ed3810f9.chunk.js": "/omdbapi.github.io/static/js/453.ed3810f9.chunk.js",
     "index.html": "/omdbapi.github.io/index.html",
     "main.a262d11b.css.map": "/omdbapi.github.io/static/css/main.a262d11b.css.map",
-    "main.69c94f86.js.map": "/omdbapi.github.io/static/js/main.69c94f86.js.map",
+    "main.3cad7643.js.map": "/omdbapi.github.io/static/js/main.3cad7643.js.map",
     "453.ed3810f9.chunk.js.map": "/omdbapi.github.io/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a262d11b.css",
-    "static/js/main.69c94f86.js"
+    "static/js/main.3cad7643.js"
   ]
 }
