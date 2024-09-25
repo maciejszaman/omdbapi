@@ -6,7 +6,7 @@ export const useMovies = () => {
 
   const fetchMovies = async (search: string, type: string) => {
     const response = await fetch(
-      `https://www.omdbapi.com/?s=${search}&type=${type}&apikey=${process.env.REACT_APP_API_KEY}`
+      `https://www.omdbapi.com/?s=${search}&type=${type}&apikey=1d7e2ef0`
     );
     const data = await response.json();
     return data;
